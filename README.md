@@ -1,4 +1,4 @@
-<h1 align='center'> 🚀 Team Chatty 모각코 🚀 </h1>
+<h1 align='center'> 🚀 Team Chatty Study 🚀 </h1>
 
 <div align='center'; padding: 1rem">
   
