@@ -9,7 +9,7 @@
 |1       |박규연(20203065)|어떻게 협업을 하는 것이 좋은가에 대해서 공부하고, 정리함|[Tistory](https://noooey.tistory.com/77)|어떤식으로 협업을 진행하는 것이 좋은지 고민해볼 수 있어서 좋았다.|
 |2       |심재민(20203093)|Spring Boot의 외부 API 호출 라이브러리에 대해 공부함|[Velog](https://velog.io/@cherry_031/Spring-Boot-RestClient)|외부 API 호출을 어떻게 하는지 며칠 동안 고민했는데 알게 되었고 최신 라이브러리를 사용하는 경험을 얻어 좋았다.|
 |3       |배준형(20152829)|무한 스크롤 최적화에 대한 스터디|[Github](https://github.com/ryanbae94/TIL/blob/main/0308.md)|단순한 구현을 뛰어넘어 무한스크롤을 사용했을 때 클라이언트 단계에서 최적화하는 방법을 알게 되었다.|
-|4       |               |             |||
-|5       |               |             |||
+|4       |김우림(20190068)|컴포넌트 랜덤 분포 애니메이션 구현하기|[Tistory](https://kwoooo.tistory.com/6)|타입스크립트 내에서 랜덤 넘버를 생성하고 이를 컴포넌트의 prop으로 전달해 그래픽요소로 활용하는 법을 알게되었다.|
+|5       |안금장(20181637)|스프링 JWT 회원가입 및 로그인 구현|[Tistory](https://koomchang.tistory.com/28)|Spring에서 사용자 로그인을 위한 jwt토큰 발급 구현 방식을 알게되었다.|
 
 ![image](https://github.com/Team-WeQuiz/study/assets/66217855/b49bca97-a3a8-4e54-9707-16dc18e8b80d)
