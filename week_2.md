@@ -10,4 +10,4 @@
 |2       |심재민(20203093)|WebSocket|[Notion](https://wonderful-alloy-41d.notion.site/3-9-3-15-8183a2cdc5244b838b2285a333633872)|공부해야 할 게 많아서 힘들지만 열심히 짠 코드가 작동하는 걸 보니까 할 맛이 난다|
 |3       |배준형(20152829)|클라이언트에서 파일을 받아 s3로 파일 업로드|[Github](https://github.com/ryanbae94/TIL/blob/main/0315.md)|클라이언트에서 업로드를 하면 백엔드 리소스를 쓰지 않아도 된다는 것을 알게 되었다|
 |4       |김우림(20190068)||[Tistory](https://kwoooo.tistory.com/6)|타입스크립트 내에서 랜덤 넘버를 생성하고 이를 컴포넌트의 prop으로 전달해 그래픽요소로 활용하는 법을 알게되었다.|
-|5       |안금장(20181637)|스프링 JWT 회원가입 및 로그인 구현|[Tistory](https://koomchang.tistory.com/28)|Spring에서 사용자 로그인을 위한 jwt토큰 발급 구현 방식을 알게되었다.|
+|5       |안금장(20181637)| ORM과 JPA에 대한 개념 학습 및 Spring boot에서 이용하기 위한 환경설정|[Tistory](https://koomchang.tistory.com/30)|Spring에서 주로 사용하는 JPA라는 기술의 개념과 학습했고 환경설정 방법을 알게 되었다.|
