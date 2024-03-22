@@ -11,3 +11,5 @@
 |3       |배준형(20152829)|Next.js에서 구글 로그인과 카카오 로그인|[velog](https://velog.io/@ryanbae94/next.js%EC%97%90%EC%84%9C-%EC%86%8C%EC%85%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)| 처음에 소셜로그인 과정을 이해하는 데 시간이 좀 들었지만, 이해하고 구현한 후에는 상당히 만족스로운 기능이라는 것을 알게 되었다.
 |4       |김우림(20190068)|||
 |5       |안금장(20181637)|JPA 영속성 컨텍스트|[Tistory](https://koomchang.tistory.com/31)| JPA의 영속성 컨텍스트를 통해 엔티티를 관리하고 생명주기까지 관리하는 것이 신기했고 그 동안 사용한 엔티티들에 대한 이해도가 높아졌다.
+
+![image](https://github.com/Team-WeQuiz/study/assets/66217855/10d8889d-f4f1-479f-a2fc-5590aea70297)
