@@ -12,4 +12,4 @@
 |4       |김우림(20190068)|웹소켓과 전역상태 라이브러리를 이용한 채팅방 구현|[Tistory](https://kwoooo.tistory.com/13)|웹소켓을 이용해 유저들의 입장, 준비, 채팅 데이터 상태를 안정적으로 관리할 수 있도록 라이브러리를 도입해 적용해봤다.
 |5       |안금장(20181637)|JPA를 이용한 연관관계 맵핑|[Tistory](https://koomchang.tistory.com/33)|데이터베이스를 java 언어로 조작하는 ORM기술인 JPA를 통해 객체간 연관관계를 맵핑할 수 있는 기술을 새로 배우게 되었다.
 
-![image]()
+![47613422-B977-404F-840C-066B3E9FD00D_1_201_a](https://github.com/Team-WeQuiz/study/assets/66217855/9051a6a7-3a2a-4b83-885d-9914a43c50ea)
