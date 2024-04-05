@@ -10,6 +10,6 @@
 |2       |심재민(20203093)|||
 |3       |배준형(20152829)|환경 변수를 AWS Secret Manager로 마이그레이션 했던 경험|[Velog](https://velog.io/@ryanbae94/Next.js-%EC%97%90%EC%84%9C-AWS-Secret-Manager-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0)|마이그레이션을 함으로써 팀원들의 생산성을 높일 수 있었다
 |4       |김우림(20190068)|||
-|5       |안금장(20181637)|||JPA를 이용한 연관관계 맵핑|[Tistory](https://koomchang.tistory.com/33)|데이터베이스를 java 언어로 조작하는 ORM기술인 JPA를 통해 객체간 연관관계를 맵핑할 수 있는 기술을 새로 배우게 되었다.
+|5       |안금장(20181637)|JPA를 이용한 연관관계 맵핑|[Tistory](https://koomchang.tistory.com/33)|데이터베이스를 java 언어로 조작하는 ORM기술인 JPA를 통해 객체간 연관관계를 맵핑할 수 있는 기술을 새로 배우게 되었다.
 
 ![image]()
