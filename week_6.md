@@ -10,6 +10,5 @@
 |2       |심재민(20203093)|||
 |3       |배준형(20152829)|||
 |4       |김우림(20190068)|||
-|5       |안금장(20181637)|||
-
+|5       |안금장(20181637)|Git action과 docker hub을 이용한 Continuous Integration|[Tistory](https://koomchang.tistory.com/36)|Git action을 통해 docker에 이미지를 생성하는 CI 과정을 구현해보았다. 이러한 과정을 통해 개발효율성을 높일 수 있을 것 같다.
 ![image]()
