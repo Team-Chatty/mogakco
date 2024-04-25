@@ -12,4 +12,4 @@
 |4       |김우림(20190068)|||
 |5       |안금장(20181637)|||
 
-![Uploading image.png…]()
+![image](https://github.com/Team-WeQuiz/study/assets/66217855/3fc33bc4-ba86-4e6b-bb38-7b3d6d114b1b)
