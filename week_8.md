@@ -10,6 +10,6 @@
 |2       |심재민(20203093)|java syncronized|[Velog](https://velog.io/@cherry_031/java-syncronized)|운영체제를 나름 열심히 들은 것 같은데도 스레드는 참 어려운 것 같다...
 |3       |배준형(20152829)|||
 |4       |김우림(20190068)|||
-|5       |안금장(20181637)|||
+|5       |안금장(20181637)|Collection Interface|[Tistory](https://koomchang.tistory.com/23)| 자바에서 많이 쓰이는 Collection을 직접 뜯어보며 자바의 자료구조에 대해서 공부했다!
 
 ![image](https://github.com/Team-WeQuiz/study/assets/66217855/3fc33bc4-ba86-4e6b-bb38-7b3d6d114b1b)
